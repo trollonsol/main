@@ -1,14 +1,14 @@
 /* Theme */
 
 main {
-	background: #EDEDED;
-	color: #4B5658;
+    background: #000000; /* Black background */
+    color: #FFFFFF;     /* White text color */
 }
 
 .icons-social a {
-	color: #4B5658;
+    color: #FFFFFF;     /* White text color for social icons links */
 }
 
-.icons-social a svg path{
-	fill: #4B5658;
+.icons-social a svg path {
+    fill: #FFFFFF;      /* White fill color for SVG paths in social icons */
 }
